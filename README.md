@@ -1,4 +1,4 @@
-# mbit
+# microbit_car
 
 Extension for Yahboom mbit
 
